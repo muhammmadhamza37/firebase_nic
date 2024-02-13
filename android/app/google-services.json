@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489265812753",
+    "project_id": "fir-nic-28287",
+    "storage_bucket": "fir-nic-28287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489265812753:android:6547a7d4d418a0c124e8b0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_nic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr_MQ6gKRmIyRQcsJVu0LszfMLDkHAzL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
